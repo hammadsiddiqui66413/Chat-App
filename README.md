@@ -21,7 +21,7 @@ Install NPM packages:
 
 ```npm install```
 
-Create a MYSQL database file in the database folder:
+Create a MYSQL database chatapp file in the database folder:
 
 ```php artisan migrate```
 
